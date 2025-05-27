@@ -1,6 +1,6 @@
-name: Antimatter
-version: 2.2.1
-description: "Antimatter is the default theme included with **Grav**"
+name: Antimatter Fork
+version: 1.0
+description: "Antimatter Fork is from the original Antimatter Theme
 icon: empire
 author:
   name: Team Grav
@@ -9,7 +9,7 @@ author:
 homepage: https://github.com/getgrav/grav-theme-antimatter
 demo: http://demo.getgrav.org/blog-skeleton
 keywords: antimatter, theme, core, modern, fast, responsive, html5, css3
-bugs: https://github.com/getgrav/grav-theme-antimatter/issues
+bugs: https://github.com/cheinisch/grav-theme-antimatter/issues
 license: MIT
 
 dependencies:
